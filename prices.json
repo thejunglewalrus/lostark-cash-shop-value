@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T21:00:04Z",
+  "generated_at": "2026-11-17T21:10:03Z",
   "regions": {
     "nae": {
       "source_valid_at": "2026-11-15T16:29:34+00:00",
@@ -84,38 +84,38 @@
       }
     },
     "euc": {
-      "source_valid_at": "2026-11-17T00:48:57+00:00",
+      "source_valid_at": "2026-11-17T21:09:03+00:00",
       "prices": {
         "destiny-crystallized-destruction-stone": 13.85,
         "destiny-crystallized-guardian-stone": 4.41,
-        "crystallized-destruction-stone": 0.01,
+        "crystallized-destruction-stone": 0.02,
         "crystallized-guardian-stone": 0.01,
-        "destiny-destruction-stone": 4.18,
-        "destiny-guardian-stone": 0.72,
+        "destiny-destruction-stone": 2.92,
+        "destiny-guardian-stone": 0.74,
         "destruction-stone": 0.92,
         "guardian-stone": 0.3,
         "destruction-stone-fragment": 0.166,
         "guardian-stone-fragment": 0.017,
-        "destiny-leapstone": 8.0,
-        "great-destiny-leapstone": 18.0,
+        "destiny-leapstone": 9.0,
+        "great-destiny-leapstone": 15.0,
         "honor-leapstone": 5.0,
         "great-honor-leapstone": 7.0,
-        "marvelous-honor-leapstone": 40.0,
-        "radiant-honor-leapstone": 45.0,
+        "marvelous-honor-leapstone": 20.0,
+        "radiant-honor-leapstone": 43.0,
         "harmony-leapstone": 0.9,
-        "abidos-fusion-material": 114.0,
-        "superior-abidos-fusion-material": 151.0,
+        "abidos-fusion-material": 111.0,
+        "superior-abidos-fusion-material": 150.0,
         "prime-oreha-fusion-material": 4.2,
         "solar-grace": 1.8,
         "solar-blessing": 14.7,
-        "solar-protection": 144.0,
+        "solar-protection": 147.0,
         "glaciers-breath": 345.0,
         "lavas-breath": 500.0,
         "sidereal-energy": 1999999.0,
-        "destiny-shard": 0.146,
-        "destiny-shard-pouch-s": 146.0,
+        "destiny-shard": 0.129,
+        "destiny-shard-pouch-s": 129.0,
         "destiny-shard-pouch-m": 499.0,
-        "destiny-shard-pouch-l": 211.0,
+        "destiny-shard-pouch-l": 219.0,
         "artisans-metallurgy-level-1": 160.0,
         "artisans-metallurgy-level-2": 1.0,
         "artisans-metallurgy-level-3": 223.0,
@@ -161,7 +161,7 @@
         "splendid-sacred-charm-bound": 368.0,
         "refined-obliteration-stone": 0.06,
         "refined-protection-stone": 0.001,
-        "honor-shard-pouch-l": 325.0
+        "honor-shard-pouch-l": 300.0
       }
     }
   },
