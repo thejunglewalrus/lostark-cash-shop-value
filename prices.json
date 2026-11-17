@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:10:04Z",
+  "generated_at": "2026-11-17T22:16:50Z",
   "regions": {
     "nae": {
       "source_valid_at": "2026-11-15T16:29:34+00:00",
@@ -84,7 +84,7 @@
       }
     },
     "euc": {
-      "source_valid_at": "2026-11-17T22:08:11+00:00",
+      "source_valid_at": "2026-11-17T22:10:47+00:00",
       "prices": {
         "destiny-crystallized-destruction-stone": 13.33,
         "destiny-crystallized-guardian-stone": 4.19,
