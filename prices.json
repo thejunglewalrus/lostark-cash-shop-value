@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T23:30:05Z",
+  "generated_at": "2026-11-17T23:40:05Z",
   "regions": {
     "nae": {
       "source_valid_at": "2026-11-15T16:29:34+00:00",
@@ -84,10 +84,10 @@
       }
     },
     "euc": {
-      "source_valid_at": "2026-11-17T23:29:45+00:00",
+      "source_valid_at": "2026-11-17T23:33:04+00:00",
       "prices": {
-        "destiny-crystallized-destruction-stone": 13.33,
-        "destiny-crystallized-guardian-stone": 4.19,
+        "destiny-crystallized-destruction-stone": 13.6,
+        "destiny-crystallized-guardian-stone": 4.34,
         "crystallized-destruction-stone": 0.02,
         "crystallized-guardian-stone": 0.01,
         "destiny-destruction-stone": 2.8,
@@ -109,8 +109,8 @@
         "solar-grace": 1.8,
         "solar-blessing": 14.7,
         "solar-protection": 147.0,
-        "glaciers-breath": 347.0,
-        "lavas-breath": 486.0,
+        "glaciers-breath": 344.0,
+        "lavas-breath": 499.0,
         "sidereal-energy": 2400000.0,
         "destiny-shard": 0.129,
         "destiny-shard-pouch-s": 129.0,
