@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-18T20:20:02Z",
+  "generated_at": "2026-11-18T20:30:04Z",
   "regions": {
     "nae": {
-      "source_valid_at": "2026-11-18T19:19:22+00:00",
+      "source_valid_at": "2026-11-18T20:29:06+00:00",
       "prices": {
-        "destiny-crystallized-destruction-stone": 15.0,
-        "destiny-crystallized-guardian-stone": 4.4,
+        "destiny-crystallized-destruction-stone": 15.99,
+        "destiny-crystallized-guardian-stone": 5.19,
         "crystallized-destruction-stone": 0.33,
-        "crystallized-guardian-stone": 0.05,
-        "destiny-destruction-stone": 3.7,
-        "destiny-guardian-stone": 0.93,
+        "crystallized-guardian-stone": 231.23,
+        "destiny-destruction-stone": 3.5,
+        "destiny-guardian-stone": 1.0,
         "destruction-stone": 5.0,
         "guardian-stone": 5.0,
         "destruction-stone-fragment": 6.995,
@@ -22,19 +22,19 @@
         "radiant-honor-leapstone": 45.0,
         "harmony-leapstone": 14.8,
         "abidos-fusion-material": 124.0,
-        "superior-abidos-fusion-material": 138.0,
+        "superior-abidos-fusion-material": 139.0,
         "prime-oreha-fusion-material": 2.2,
         "solar-grace": 8.8,
         "solar-blessing": 22.0,
         "solar-protection": 173.0,
         "moon-s-breath": 1000.0,
-        "glaciers-breath": 297.0,
+        "glaciers-breath": 311.0,
         "lavas-breath": 429.0,
-        "sidereal-energy": 9000000.0,
-        "destiny-shard": 0.135,
-        "destiny-shard-pouch-s": 135.0,
-        "destiny-shard-pouch-m": 1500.0,
-        "destiny-shard-pouch-l": 386.0,
+        "sidereal-energy": 8950000.0,
+        "destiny-shard": 0.134,
+        "destiny-shard-pouch-s": 134.0,
+        "destiny-shard-pouch-m": 1450.0,
+        "destiny-shard-pouch-l": 389.0,
         "artisans-metallurgy-level-1": 161.0,
         "artisans-metallurgy-level-2": 15.0,
         "artisans-metallurgy-level-3": 239.0,
@@ -80,7 +80,7 @@
         "splendid-sacred-charm-bound": 330.0,
         "refined-obliteration-stone": 0.113,
         "refined-protection-stone": 0.002,
-        "honor-shard-pouch-l": 999.0
+        "honor-shard-pouch-l": 1999.0
       }
     },
     "euc": {
