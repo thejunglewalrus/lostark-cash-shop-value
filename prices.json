@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T22:00:05Z",
+  "generated_at": "2026-11-22T22:10:05Z",
   "regions": {
     "nae": {
-      "source_valid_at": "2026-11-22T21:59:47+00:00",
+      "source_valid_at": "2026-11-22T22:02:27+00:00",
       "prices": {
         "destiny-crystallized-destruction-stone": 18.27,
         "destiny-crystallized-guardian-stone": 6.45,
@@ -22,7 +22,7 @@
         "radiant-honor-leapstone": 93.0,
         "harmony-leapstone": 14.8,
         "abidos-fusion-material": 118.0,
-        "superior-abidos-fusion-material": 141.0,
+        "superior-abidos-fusion-material": 140.0,
         "prime-oreha-fusion-material": 2.2,
         "solar-grace": 8.8,
         "solar-blessing": 22.0,
@@ -84,7 +84,7 @@
       }
     },
     "euc": {
-      "source_valid_at": "2026-11-22T21:35:49+00:00",
+      "source_valid_at": "2026-11-22T22:09:37+00:00",
       "prices": {
         "destiny-crystallized-destruction-stone": 22.99,
         "destiny-crystallized-guardian-stone": 4.65,
@@ -97,7 +97,7 @@
         "destruction-stone-fragment": 0.166,
         "guardian-stone-fragment": 0.017,
         "destiny-leapstone": 6.0,
-        "great-destiny-leapstone": 19.0,
+        "great-destiny-leapstone": 17.0,
         "honor-leapstone": 50.0,
         "great-honor-leapstone": 7.0,
         "marvelous-honor-leapstone": 39.0,
