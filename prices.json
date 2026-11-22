@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T20:40:04Z",
+  "generated_at": "2026-11-22T20:50:05Z",
   "regions": {
     "nae": {
       "source_valid_at": "2026-11-22T19:36:50+00:00",
@@ -84,20 +84,20 @@
       }
     },
     "euc": {
-      "source_valid_at": "2026-11-22T20:38:59+00:00",
+      "source_valid_at": "2026-11-22T20:47:41+00:00",
       "prices": {
-        "destiny-crystallized-destruction-stone": 14.2,
-        "destiny-crystallized-guardian-stone": 4.3,
+        "destiny-crystallized-destruction-stone": 14.45,
+        "destiny-crystallized-guardian-stone": 4.29,
         "crystallized-destruction-stone": 0.03,
         "crystallized-guardian-stone": 0.01,
-        "destiny-destruction-stone": 2.65,
+        "destiny-destruction-stone": 2.86,
         "destiny-guardian-stone": 0.69,
         "destruction-stone": 0.92,
         "guardian-stone": 0.3,
         "destruction-stone-fragment": 0.166,
         "guardian-stone-fragment": 0.017,
         "destiny-leapstone": 6.0,
-        "great-destiny-leapstone": 16.0,
+        "great-destiny-leapstone": 15.0,
         "honor-leapstone": 50.0,
         "great-honor-leapstone": 7.0,
         "marvelous-honor-leapstone": 39.0,
@@ -109,13 +109,13 @@
         "solar-grace": 1.8,
         "solar-blessing": 14.7,
         "solar-protection": 144.0,
-        "glaciers-breath": 314.0,
-        "lavas-breath": 471.0,
+        "glaciers-breath": 312.0,
+        "lavas-breath": 470.0,
         "sidereal-energy": 2100000.0,
         "destiny-shard": 0.079,
         "destiny-shard-pouch-s": 79.0,
         "destiny-shard-pouch-m": 477.0,
-        "destiny-shard-pouch-l": 139.0,
+        "destiny-shard-pouch-l": 137.0,
         "artisans-metallurgy-level-1": 160.0,
         "artisans-metallurgy-level-2": 1.0,
         "artisans-metallurgy-level-3": 223.0,
@@ -161,7 +161,7 @@
         "splendid-sacred-charm-bound": 368.0,
         "refined-obliteration-stone": 0.06,
         "refined-protection-stone": 0.001,
-        "honor-shard-pouch-l": 222.0
+        "honor-shard-pouch-l": 200.0
       }
     }
   },
