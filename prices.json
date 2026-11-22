@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:30:26Z",
+  "generated_at": "2026-11-22T21:40:04Z",
   "regions": {
     "nae": {
       "source_valid_at": "2026-11-22T21:14:20+00:00",
@@ -84,20 +84,20 @@
       }
     },
     "euc": {
-      "source_valid_at": "2026-11-22T21:25:34+00:00",
+      "source_valid_at": "2026-11-22T21:35:49+00:00",
       "prices": {
-        "destiny-crystallized-destruction-stone": 30.0,
-        "destiny-crystallized-guardian-stone": 4.35,
+        "destiny-crystallized-destruction-stone": 22.99,
+        "destiny-crystallized-guardian-stone": 4.65,
         "crystallized-destruction-stone": 0.03,
         "crystallized-guardian-stone": 0.01,
         "destiny-destruction-stone": 2.86,
-        "destiny-guardian-stone": 0.67,
+        "destiny-guardian-stone": 0.69,
         "destruction-stone": 0.92,
         "guardian-stone": 0.3,
         "destruction-stone-fragment": 0.166,
         "guardian-stone-fragment": 0.017,
         "destiny-leapstone": 6.0,
-        "great-destiny-leapstone": 18.0,
+        "great-destiny-leapstone": 19.0,
         "honor-leapstone": 50.0,
         "great-honor-leapstone": 7.0,
         "marvelous-honor-leapstone": 39.0,
@@ -110,12 +110,12 @@
         "solar-blessing": 14.7,
         "solar-protection": 144.0,
         "glaciers-breath": 310.0,
-        "lavas-breath": 474.0,
+        "lavas-breath": 473.0,
         "sidereal-energy": 2100000.0,
         "destiny-shard": 0.079,
         "destiny-shard-pouch-s": 79.0,
         "destiny-shard-pouch-m": 477.0,
-        "destiny-shard-pouch-l": 175.0,
+        "destiny-shard-pouch-l": 174.0,
         "artisans-metallurgy-level-1": 160.0,
         "artisans-metallurgy-level-2": 1.0,
         "artisans-metallurgy-level-3": 223.0,
