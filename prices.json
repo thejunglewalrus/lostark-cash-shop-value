@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-25T18:00:03Z",
+  "generated_at": "2026-11-25T18:10:03Z",
   "regions": {
     "nae": {
-      "source_valid_at": "2026-11-24T23:06:58+00:00",
+      "source_valid_at": "2026-11-25T18:03:35+00:00",
       "prices": {
         "destiny-crystallized-destruction-stone": 14.29,
         "destiny-crystallized-guardian-stone": 4.7,
         "crystallized-destruction-stone": 0.04,
-        "crystallized-guardian-stone": 4.77,
+        "crystallized-guardian-stone": 0.01,
         "destiny-destruction-stone": 3.6,
         "destiny-guardian-stone": 1.08,
         "destruction-stone": 5.0,
         "guardian-stone": 5.0,
         "destruction-stone-fragment": 6.995,
         "guardian-stone-fragment": 0.098,
-        "destiny-leapstone": 7.0,
+        "destiny-leapstone": 10.0,
         "great-destiny-leapstone": 48.0,
         "honor-leapstone": 150.0,
         "great-honor-leapstone": 4.0,
