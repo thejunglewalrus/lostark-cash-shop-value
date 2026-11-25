@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:00:05Z",
+  "generated_at": "2026-11-25T21:10:03Z",
   "regions": {
     "nae": {
       "source_valid_at": "2026-11-25T18:08:56+00:00",
@@ -84,7 +84,7 @@
       }
     },
     "euc": {
-      "source_valid_at": "2026-11-25T20:59:38+00:00",
+      "source_valid_at": "2026-11-25T21:02:06+00:00",
       "prices": {
         "destiny-crystallized-destruction-stone": 12.78,
         "destiny-crystallized-guardian-stone": 4.13,
@@ -104,14 +104,14 @@
         "radiant-honor-leapstone": 7.0,
         "harmony-leapstone": 0.9,
         "abidos-fusion-material": 117.0,
-        "superior-abidos-fusion-material": 149.0,
+        "superior-abidos-fusion-material": 130.0,
         "prime-oreha-fusion-material": 4.2,
         "solar-grace": 1.8,
         "solar-blessing": 14.7,
         "solar-protection": 122.0,
         "glaciers-breath": 308.0,
         "lavas-breath": 409.0,
-        "sidereal-energy": 2399998.0,
+        "sidereal-energy": 2398995.0,
         "destiny-shard": 0.065,
         "destiny-shard-pouch-s": 65.0,
         "destiny-shard-pouch-m": 450.0,
